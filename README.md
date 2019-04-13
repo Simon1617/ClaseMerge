@@ -5,6 +5,8 @@ Ejemplo para el taller de GitHub
   <img src="https://orienten.me/media/institution/thumbnails/escuela-da-vinci_MoK2MAJ.png.180x180_q70_crop.jpg">
 </p>
 
+
+--------
 ## Hola soy el hijo del titulo
 ### Hola soy el nieto del titulo
 #### Hola soy el bisnieto del titulo
